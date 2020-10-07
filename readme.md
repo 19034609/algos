@@ -10,7 +10,8 @@ Furthermore, having the ability to replace the value with something of use.
 2. Able to do the same to a dictionary of lists. And will also let you replace the value of the list, as the key and the index will be the return values for you to use.
 
 # Features to be added: 
-Currently there are **none**
+1. Type casting an entire list to a specific data type. ie. Strings to integers. This option will be implemented where available.  
+You don't expect to be able to cast a string into an integer, that doesn't make sense.
 
 # Contributing
 If you wish to contribute to this repository, feel free to do so under the __add ons__  
